@@ -5,11 +5,7 @@
 <h2>🚀 Demo</h2>
 
 [Click here to see demo](https://headiman.vercel.app/)
-
-<h2>Project Screenshots:</h2>
-
-  
-  
+    
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
